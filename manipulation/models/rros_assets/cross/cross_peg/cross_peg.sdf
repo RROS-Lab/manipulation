@@ -28,13 +28,13 @@
           </mesh>
         </geometry>
         <drake:proximity_properties>
-          <drake:mu_static>1.0000E+00</drake:mu_static>
-          <drake:mu_dynamic>1.0000E+00</drake:mu_dynamic>
+          <drake:mu_static>3.5000E-01</drake:mu_static>
+          <drake:mu_dynamic>2.5000E-01</drake:mu_dynamic>
           <drake:compliant_hydroelastic>
             <drake:resolution_hint>1.0000E-12</drake:resolution_hint>
           </drake:compliant_hydroelastic>
-          <drake:hydroelastic_modulus>2.0000E+07</drake:hydroelastic_modulus>
-          <drake:hunt_crossley_dissipation>1.2500E+00</drake:hunt_crossley_dissipation>
+          <drake:hydroelastic_modulus>3.0000E+09</drake:hydroelastic_modulus>
+          <drake:hunt_crossley_dissipation>3.0000E+01</drake:hunt_crossley_dissipation>
         </drake:proximity_properties>
       </collision>
       <collision name="collision_0001">
@@ -45,13 +45,13 @@
           </mesh>
         </geometry>
         <drake:proximity_properties>
-          <drake:mu_static>1.0000E+00</drake:mu_static>
-          <drake:mu_dynamic>1.0000E+00</drake:mu_dynamic>
+          <drake:mu_static>3.5000E-01</drake:mu_static>
+          <drake:mu_dynamic>2.5000E-01</drake:mu_dynamic>
           <drake:compliant_hydroelastic>
             <drake:resolution_hint>1.0000E-12</drake:resolution_hint>
           </drake:compliant_hydroelastic>
-          <drake:hydroelastic_modulus>2.0000E+07</drake:hydroelastic_modulus>
-          <drake:hunt_crossley_dissipation>1.2500E+00</drake:hunt_crossley_dissipation>
+          <drake:hydroelastic_modulus>3.0000E+09</drake:hydroelastic_modulus>
+          <drake:hunt_crossley_dissipation>3.0000E+01</drake:hunt_crossley_dissipation>
         </drake:proximity_properties>
       </collision>
       <collision name="collision_0002">
@@ -62,13 +62,13 @@
           </mesh>
         </geometry>
         <drake:proximity_properties>
-          <drake:mu_static>1.0000E+00</drake:mu_static>
-          <drake:mu_dynamic>1.0000E+00</drake:mu_dynamic>
+          <drake:mu_static>3.5000E-01</drake:mu_static>
+          <drake:mu_dynamic>2.5000E-01</drake:mu_dynamic>
           <drake:compliant_hydroelastic>
             <drake:resolution_hint>1.0000E-12</drake:resolution_hint>
           </drake:compliant_hydroelastic>
-          <drake:hydroelastic_modulus>2.0000E+07</drake:hydroelastic_modulus>
-          <drake:hunt_crossley_dissipation>1.2500E+00</drake:hunt_crossley_dissipation>
+          <drake:hydroelastic_modulus>3.0000E+09</drake:hydroelastic_modulus>
+          <drake:hunt_crossley_dissipation>3.0000E+01</drake:hunt_crossley_dissipation>
         </drake:proximity_properties>
       </collision>
       <collision name="collision_0003">
@@ -79,13 +79,13 @@
           </mesh>
         </geometry>
         <drake:proximity_properties>
-          <drake:mu_static>1.0000E+00</drake:mu_static>
-          <drake:mu_dynamic>1.0000E+00</drake:mu_dynamic>
+          <drake:mu_static>3.5000E-01</drake:mu_static>
+          <drake:mu_dynamic>2.5000E-01</drake:mu_dynamic>
           <drake:compliant_hydroelastic>
             <drake:resolution_hint>1.0000E-12</drake:resolution_hint>
           </drake:compliant_hydroelastic>
-          <drake:hydroelastic_modulus>2.0000E+07</drake:hydroelastic_modulus>
-          <drake:hunt_crossley_dissipation>1.2500E+00</drake:hunt_crossley_dissipation>
+          <drake:hydroelastic_modulus>3.0000E+09</drake:hydroelastic_modulus>
+          <drake:hunt_crossley_dissipation>3.0000E+01</drake:hunt_crossley_dissipation>
         </drake:proximity_properties>
       </collision>
       <collision name="collision_0004">
@@ -96,13 +96,13 @@
           </mesh>
         </geometry>
         <drake:proximity_properties>
-          <drake:mu_static>1.0000E+00</drake:mu_static>
-          <drake:mu_dynamic>1.0000E+00</drake:mu_dynamic>
+          <drake:mu_static>3.5000E-01</drake:mu_static>
+          <drake:mu_dynamic>2.5000E-01</drake:mu_dynamic>
           <drake:compliant_hydroelastic>
             <drake:resolution_hint>1.0000E-12</drake:resolution_hint>
           </drake:compliant_hydroelastic>
-          <drake:hydroelastic_modulus>2.0000E+07</drake:hydroelastic_modulus>
-          <drake:hunt_crossley_dissipation>1.2500E+00</drake:hunt_crossley_dissipation>
+          <drake:hydroelastic_modulus>3.0000E+09</drake:hydroelastic_modulus>
+          <drake:hunt_crossley_dissipation>3.0000E+01</drake:hunt_crossley_dissipation>
         </drake:proximity_properties>
       </collision>
       <collision name="collision_0005">
@@ -113,13 +113,13 @@
           </mesh>
         </geometry>
         <drake:proximity_properties>
-          <drake:mu_static>1.0000E+00</drake:mu_static>
-          <drake:mu_dynamic>1.0000E+00</drake:mu_dynamic>
+          <drake:mu_static>3.5000E-01</drake:mu_static>
+          <drake:mu_dynamic>2.5000E-01</drake:mu_dynamic>
           <drake:compliant_hydroelastic>
             <drake:resolution_hint>1.0000E-12</drake:resolution_hint>
           </drake:compliant_hydroelastic>
-          <drake:hydroelastic_modulus>2.0000E+07</drake:hydroelastic_modulus>
-          <drake:hunt_crossley_dissipation>1.2500E+00</drake:hunt_crossley_dissipation>
+          <drake:hydroelastic_modulus>3.0000E+09</drake:hydroelastic_modulus>
+          <drake:hunt_crossley_dissipation>3.0000E+01</drake:hunt_crossley_dissipation>
         </drake:proximity_properties>
       </collision>
       <collision name="collision_0006">
@@ -130,13 +130,13 @@
           </mesh>
         </geometry>
         <drake:proximity_properties>
-          <drake:mu_static>1.0000E+00</drake:mu_static>
-          <drake:mu_dynamic>1.0000E+00</drake:mu_dynamic>
+          <drake:mu_static>3.5000E-01</drake:mu_static>
+          <drake:mu_dynamic>2.5000E-01</drake:mu_dynamic>
           <drake:compliant_hydroelastic>
             <drake:resolution_hint>1.0000E-12</drake:resolution_hint>
           </drake:compliant_hydroelastic>
-          <drake:hydroelastic_modulus>2.0000E+07</drake:hydroelastic_modulus>
-          <drake:hunt_crossley_dissipation>1.2500E+00</drake:hunt_crossley_dissipation>
+          <drake:hydroelastic_modulus>3.0000E+09</drake:hydroelastic_modulus>
+          <drake:hunt_crossley_dissipation>3.0000E+01</drake:hunt_crossley_dissipation>
         </drake:proximity_properties>
       </collision>
       <collision name="collision_0007">
@@ -147,13 +147,13 @@
           </mesh>
         </geometry>
         <drake:proximity_properties>
-          <drake:mu_static>1.0000E+00</drake:mu_static>
-          <drake:mu_dynamic>1.0000E+00</drake:mu_dynamic>
+          <drake:mu_static>3.5000E-01</drake:mu_static>
+          <drake:mu_dynamic>2.5000E-01</drake:mu_dynamic>
           <drake:compliant_hydroelastic>
             <drake:resolution_hint>1.0000E-12</drake:resolution_hint>
           </drake:compliant_hydroelastic>
-          <drake:hydroelastic_modulus>2.0000E+07</drake:hydroelastic_modulus>
-          <drake:hunt_crossley_dissipation>1.2500E+00</drake:hunt_crossley_dissipation>
+          <drake:hydroelastic_modulus>3.0000E+09</drake:hydroelastic_modulus>
+          <drake:hunt_crossley_dissipation>3.0000E+01</drake:hunt_crossley_dissipation>
         </drake:proximity_properties>
       </collision>
       <collision name="collision_0008">
@@ -164,13 +164,13 @@
           </mesh>
         </geometry>
         <drake:proximity_properties>
-          <drake:mu_static>1.0000E+00</drake:mu_static>
-          <drake:mu_dynamic>1.0000E+00</drake:mu_dynamic>
+          <drake:mu_static>3.5000E-01</drake:mu_static>
+          <drake:mu_dynamic>2.5000E-01</drake:mu_dynamic>
           <drake:compliant_hydroelastic>
             <drake:resolution_hint>1.0000E-12</drake:resolution_hint>
           </drake:compliant_hydroelastic>
-          <drake:hydroelastic_modulus>2.0000E+07</drake:hydroelastic_modulus>
-          <drake:hunt_crossley_dissipation>1.2500E+00</drake:hunt_crossley_dissipation>
+          <drake:hydroelastic_modulus>3.0000E+09</drake:hydroelastic_modulus>
+          <drake:hunt_crossley_dissipation>3.0000E+01</drake:hunt_crossley_dissipation>
         </drake:proximity_properties>
       </collision>
     </link>
